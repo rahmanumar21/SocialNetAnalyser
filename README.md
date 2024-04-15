@@ -62,6 +62,6 @@ post_trend_plot <- plot_post_trends(social_data)
 print(post_trend_plot)
 ```
 
-## Authors
+## Author
 
 - **A. Rahman**
