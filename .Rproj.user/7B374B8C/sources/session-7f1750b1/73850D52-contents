@@ -16,6 +16,7 @@ This document is a comprehensive guide that demonstrates the usage of functions 
 - Techniques to visualize engagement trends and posting trends over time.
 - Steps to perform a dummy sentiment analysis.
 
+For the source code, please visit the [SocialNetAnalyser - GitHub repository](https://github.com/rahmanumar21/SocialNetAnalyser).
 For more details on using R Markdown, see [R Markdown's official site](http://rmarkdown.rstudio.com).
 
 

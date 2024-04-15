@@ -3,7 +3,7 @@
     "path": "~/SocialNetAnalyser/Documentation.Rmd",
     "project_path": "Documentation.Rmd",
     "type": "r_markdown",
-    "hash": "1946420511",
+    "hash": "2447917534",
     "contents": "",
     "dirty": false,
     "created": 1713212120440.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "37,3",
-        "scrollLine": "14"
+        "cursorPosition": "23,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1713214611,
+    "lastKnownWriteTime": 1713216112,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1713214611856,
+    "last_content_update": 1713216112746,
     "read_only": false,
     "read_only_alternatives": []
 }
